@@ -1,3 +1,5 @@
+From FiveLinux/samples: ./build.sh tutor01
+
 {{{
 #include "FiveLinux.ch"
 
