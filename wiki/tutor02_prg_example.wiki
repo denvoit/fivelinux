@@ -14,4 +14,4 @@ function Main()
 return nil 
 }}}
 
-http://img3.imageshack.us/img3/3339/capturefpq.png
+http://img708.imageshack.us/img708/5162/capturemmw.png
