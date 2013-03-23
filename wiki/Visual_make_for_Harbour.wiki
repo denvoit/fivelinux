@@ -1,3 +1,5 @@
+It uses Harbour's hbmk2 (kudos to Viktor)
+
 source code:
 http://code.google.com/p/fivelinux/source/browse/trunk/samples/vmh.prg
 
